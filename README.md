@@ -1,6 +1,6 @@
 # Netflix_landing_page_clone.github.io
 
-### link : http://127.0.0.1:5500/index.html
+### link : [http://127.0.0.1:5500/index.html](https://netflix-landing-page-clone-github-oett6jh8f.vercel.app/)
 
 Welcome to my Netflix landing page clone! Crafted with HTML, CSS, and JavaScript, this replica captures the essence of the popular streaming platform, offering users a familiar and immersive browsing experience.
 
